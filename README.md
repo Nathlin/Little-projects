@@ -1,2 +1,3 @@
 # Petits-projets-basiques
-Ensemble de petits projets faits lors de mes sessions d'apprentissage sur openClasrooms
+Set of little projects, made during my learning on OpenClassrooms. 
+
